@@ -32,9 +32,6 @@
 
 For QI TV, start with the **[viewing guide](https://wolfin.app/blog?post=qi-tv-online)**. For wallpapers, see the **[download guide](https://wolfin.app/blog?post=desktop-wallpaper-guide)**.
 
-## In development
-
-**[Tawafuq Gold System](https://github.com/wolfinApp/tawafuq-gold-system)** and **[FinTech Solution](https://github.com/wolfinApp/fintech-solution)** — follow the website for availability and updates.
 
 ---
 
