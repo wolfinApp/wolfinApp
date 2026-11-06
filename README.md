@@ -19,7 +19,7 @@
 
 Hey, I'm the one behind wolfin.app. You might know me, or you might have seen me, but I'm staying anonymous.
 
-Here and on [X](https://x.com/wolfinApp), I share real, hands-on experience with every service I try. No hype, and no hiding the flaws.
+Here and on <a href="https://x.com/wolfinApp"><img src="https://img.shields.io/badge/X-181717?style=flat&amp;logo=x&amp;logoColor=white" alt="X" height="20" /></a>, I share real, hands-on experience with every service I try. No hype, and no hiding the flaws.
 
 I also share the projects I build, made for everyone, so nothing gets monopolized.
 
