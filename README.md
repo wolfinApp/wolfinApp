@@ -25,7 +25,7 @@ I also share the projects I build, made for everyone, so nothing gets monopolize
 
 A hint: I started working in banking at 16, at one of the largest banks in the Arabian Gulf.
 
-Master's in Artificial Intelligence. The stack I work with:
+I hold a Master's degree in Artificial Intelligence. The stack I work with:
 
 <p>
   <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" height="32" />
