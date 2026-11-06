@@ -7,7 +7,6 @@
 <h1 align="center">wolfin.app</h1>
 
 <p align="center">APIs, web apps and digital experiences.</p>
-<p align="center">واجهتك للخدمات الرقمية، التطبيقات وواجهات البرمجة.</p>
 
 <p align="center">
   <a href="https://wolfin.app"><strong>Explore Wolfin</strong></a> ·
@@ -20,10 +19,10 @@
 
 | Service | What it does | Open |
 | :--- | :--- | :--- |
-| **Flight API** | Search flight schedules, fares and available options through a developer API. | [Read the guide](https://wolfin.app/blog?post=flight-api-guide) |
-| **IQ Exchange API** | Access regional Iraqi parallel-market currency quotes for Baghdad, the north and the south. | [Read the guide](https://wolfin.app/blog?post=iq-exchange-api-guide) |
-| **QI TV Online** | Explore a library of films, series and live channels in a web interface. | [Open QI TV](https://wolfin.app/tv) |
-| **Desktop Wallpaper** | Browse and download a collection of 8K desktop wallpapers. | [Open wallpapers](https://wolfin.app/wallpapers) |
+| **[Flight API](https://github.com/wolfinApp/flight-api)** | Search flight schedules, fares and available options through a developer API. | [Read the guide](https://wolfin.app/blog?post=flight-api-guide) |
+| **[IQ Exchange API](https://github.com/wolfinApp/iq-exchange-api)** | Access regional Iraqi parallel-market currency quotes for Baghdad, the north and the south. | [Read the guide](https://wolfin.app/blog?post=iq-exchange-api-guide) |
+| **[QI TV Online](https://github.com/wolfinApp/qi-tv-online)** | Explore a library of films, series and live channels in a web interface. | [Open QI TV](https://wolfin.app/tv) |
+| **[Desktop Wallpaper](https://github.com/wolfinApp/desktop-wallpaper)** | Browse and download a collection of 8K desktop wallpapers. | [Open wallpapers](https://wolfin.app/wallpapers) |
 
 ## Get started
 
@@ -35,7 +34,7 @@ For QI TV, start with the **[viewing guide](https://wolfin.app/blog?post=qi-tv-o
 
 ## In development
 
-**Tawafuq Gold System** and **FinTech Solution** — follow the website for availability and updates.
+**[Tawafuq Gold System](https://github.com/wolfinApp/tawafuq-gold-system)** and **[FinTech Solution](https://github.com/wolfinApp/fintech-solution)** — follow the website for availability and updates.
 
 ---
 
