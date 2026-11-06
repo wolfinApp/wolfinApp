@@ -27,7 +27,16 @@ A hint: I started working in banking at 16, at one of the largest banks in the A
 
 Master's in Artificial Intelligence. The stack I work with:
 
-`Java` · `Python` · `Dart` · `JavaScript` · `TypeScript` · `GraphQL` · `SQL` · `MongoDB`
+<p>
+  <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" height="32" />
+  <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" height="32" />
+  <img src="https://img.shields.io/badge/Dart-181717?style=for-the-badge&amp;logo=dart&amp;logoColor=0175C2" alt="Dart" height="32" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" height="32" />
+  <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" height="32" />
+  <img src="https://img.shields.io/badge/GraphQL-181717?style=for-the-badge&amp;logo=graphql&amp;logoColor=E10098" alt="GraphQL" height="32" />
+  <img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169E1" alt="SQL" height="32" />
+  <img src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB" height="32" />
+</p>
 
 ---
 
