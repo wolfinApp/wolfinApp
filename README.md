@@ -15,6 +15,22 @@
 
 ---
 
+## Behind Wolfin
+
+Hey, I'm the one behind wolfin.app. You might know me, or you might have seen me, but I'm staying anonymous.
+
+Here and on [X](https://x.com/wolfinApp), I share real, hands-on experience with every service I try. No hype, and no hiding the flaws.
+
+I also share the projects I build, made for everyone, so nothing gets monopolized.
+
+A hint: I started working in banking at 16, at one of the largest banks in the Arabian Gulf.
+
+Master's in Artificial Intelligence. The stack I work with:
+
+`Java` · `Python` · `Dart` · `JavaScript` · `TypeScript` · `GraphQL` · `SQL` · `MongoDB`
+
+---
+
 ## Explore our services
 
 | Service | What it does | Open |
