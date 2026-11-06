@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wolfin.app">
-    <img src="https://wolfin.app/assets/logo/wolf-mask.webp" width="100" alt="Wolfin logo" />
+    <img src="https://raw.githubusercontent.com/wolfinApp/wolfinApp/main/wolfin-logo.svg" width="100" alt="Wolfin logo" />
   </a>
 </p>
 
