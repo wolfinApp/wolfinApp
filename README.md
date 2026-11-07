@@ -44,10 +44,12 @@ I hold a Master's degree in Artificial Intelligence. The stack I work with:
 
 | Service | What it does | Open |
 | :--- | :--- | :--- |
-| **[Flight API](https://github.com/wolfinApp/flight-api)** | Search flight schedules, fares and available options through a developer API. | [Read the guide](https://wolfin.app/blog?post=flight-api-guide) |
-| **[IQ Exchange API](https://github.com/wolfinApp/iq-exchange-api)** | Access regional Iraqi parallel-market currency quotes for Baghdad, the north and the south. | [Read the guide](https://wolfin.app/blog?post=iq-exchange-api-guide) |
+| **[Flight API](https://github.com/wolfinApp/flight-api)** | Search flight prices, schedules and seat availability with a secure JSON API. | [Read the guide](https://wolfin.app/blog?post=flight-api-guide) |
+| **[Desktop Wallpaper](https://github.com/wolfinApp/desktop-wallpaper)** | Browse and download a collection of free 8K desktop wallpapers. | [Open wallpapers](https://wolfin.app/wallpapers) |
+| **[IQ Exchange API](https://github.com/wolfinApp/iq-exchange-api)** | Parallel-market dollar buy and sell quotes for Baghdad, northern Iraq and southern Iraq. | [Read the guide](https://wolfin.app/blog?post=iq-exchange-api-guide) |
+| **[Tawafuq Gold System](https://github.com/wolfinApp/tawafuq-gold-system)** | 16 gold systems for MetaTrader 5, tested since 2010, with every trade drawn live. | [Read the guide](https://wolfin.app/blog?post=tawafuq-gold-system-guide) |
 | **[QI TV Online](https://github.com/wolfinApp/qi-tv-online)** | Explore a library of films, series and live channels in a web interface. | [Open QI TV](https://wolfin.app/tv) |
-| **[Desktop Wallpaper](https://github.com/wolfinApp/desktop-wallpaper)** | Browse and download a collection of 8K desktop wallpapers. | [Open wallpapers](https://wolfin.app/wallpapers) |
+| **[Wolfin Senior](https://github.com/wolfinApp/wolfin-senior)** | A free Claude Code plugin that makes the agent work like a senior engineer. | [Read the guide](https://wolfin.app/blog?post=wolfin-senior-plugin) |
 
 ## Get started
 
@@ -55,7 +57,7 @@ I hold a Master's degree in Artificial Intelligence. The stack I work with:
 2. Follow its guide for setup, requirements and usage.
 3. For APIs, check the service documentation for access, authentication and examples.
 
-For QI TV, start with the **[viewing guide](https://wolfin.app/blog?post=qi-tv-online)**. For wallpapers, see the **[download guide](https://wolfin.app/blog?post=desktop-wallpaper-guide)**.
+For QI TV, start with the **[viewing guide](https://wolfin.app/blog?post=qi-tv-online)**. For wallpapers, see the **[download guide](https://wolfin.app/blog?post=desktop-wallpaper-guide)**. For Tawafuq Gold System, follow the **[install guide](https://wolfin.app/blog?post=tawafuq-gold-system-guide)**.
 
 
 ---
